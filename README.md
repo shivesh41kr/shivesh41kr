@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Shivesh Kumar</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px" height="30px"> I'm Shivesh Kumar</h1>
 
 
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shiveshkumar4120@gmail.com**
 
-- ⚡ Fun fact **I do competitive coding and play cricket.**
+- ⚡ Fun fact **I do competitive coding and develop MERN Projects.**
 
 ## 🚀 Languages and Tools:
 
