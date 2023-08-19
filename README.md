@@ -49,7 +49,15 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/shivesh41kr/github-readme-stats"><img alt="Shivesh Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivesh41kr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivesh41kr" alt="shivesh41kr" /></a> </p>
+
+
+
+
+
+
   <a href="https://github.com/shivesh41kr/github-readme-stats"><img alt="Shivesh Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivesh41kr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
